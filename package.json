@@ -4,7 +4,9 @@
   "description": "The Apostrophe Content Management System.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/test.js"
+    "test": "mocha test/test.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -66,9 +68,11 @@
     "underscore.string": "^3.0.2",
     "uploadfs": "^1.1.8",
     "xregexp": "^2.0.0",
-    "yargs": "^3.0.0"
+    "yargs": "^3.0.0",
+    "snyk": "^1.41.1"
   },
   "devDependencies": {
     "mocha": "^3.0.0"
-  }
+  },
+  "snyk": true
 }
