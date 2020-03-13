@@ -52,7 +52,7 @@
     "less": "^3.9.0",
     "less-middleware": "^3.0.1",
     "minimatch": "^3.0.4",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "moment": "^2.23.0",
     "mongodb": "^2.2.36",
     "moog-require": "^1.1.0",
