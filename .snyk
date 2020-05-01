@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - broadband > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
+    - joinr > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
+    - moog-require > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
+    - uploadfs > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
+    - moog-require > moog > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
+    - request-promise > request-promise-core > lodash:
+        patched: '2020-05-01T07:52:03.517Z'
