@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "@sailshq/lodash": "^3.10.3",
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "bless": "^3.0.3",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.2",
@@ -55,7 +55,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.23.0",
     "mongodb": "^2.2.36",
-    "moog-require": "^1.1.0",
+    "moog-require": "^2.0.0",
     "nodemailer": "^4.7.0",
     "nunjucks": "^2.5.2",
     "oembetter": "^0.1.19",
