@@ -63,7 +63,7 @@
     "passport-local": "^1.0.0",
     "path-to-regexp": "^1.7.0",
     "performance-now": "^2.1.0",
-    "prompt": "^0.2.14",
+    "prompt": "^1.2.0",
     "qs": "^5.2.1",
     "regexp-quote": "0.0.0",
     "request": "^2.85.0",
