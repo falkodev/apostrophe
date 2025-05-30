@@ -79,7 +79,7 @@
     "underscore.string": "^3.3.5",
     "uploadfs": "^1.11.1",
     "xregexp": "^2.0.0",
-    "yargs": "^3.32.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "eslint": "^4.0.0",
